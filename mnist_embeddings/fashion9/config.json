@@ -1,0 +1,20 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "NATAC clustering Fashion-MNIST 9 dimensions",
+      "tensorShape": [
+        5000,
+        9
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/neuralclusteringNAT/paper-resources/master/mnist_embeddings/fashion9/z.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/neuralclusteringNAT/paper-resources/master/mnist_embeddings/fashion9/labels.tsv",
+      "sprite": {
+        "imagePath": "https://raw.githubusercontent.com/neuralclusteringNAT/paper-resources/master/sprites/fashion.png",
+        "singleImageDim": [
+          28,
+          28
+        ]
+      }
+    }
+  ]
+}
